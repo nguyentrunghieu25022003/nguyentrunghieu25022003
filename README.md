@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Nguyen Trung Hieu
 
-<!--
-**nguyentrunghieu25022003/nguyentrunghieu25022003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fullstack Developer** | Python • TypeScript • React • NestJS | Web Crawling • Real-time APIs
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I'm passionate about building scalable systems, data-driven applications, and real-time backend services. My experience includes:
+
+- 🕸️ Crawling systems using **FastAPI**, **httpx**, and **async Python**
+- 🛠️ Backend services with **NestJS**, **Redis**, **PostgreSQL**, **WebSocket**
+- 🎬 Cloning platforms like YouTube, Netflix, Facebook with advanced features
+- 🧠 Frontend using **React**, **TailwindCSS**, **Framer Motion**
+- 🌐 3D portfolios with **Three.js** and `@react-three/fiber`
+
+---
+
+## 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+- 🎥 **YouTube Crawler API** — Crawls full channel videos, comments, replies, playlists with anti-bot bypass.
+- 🎬 **Movie API with NestJS** — Full-featured movie REST API with crawling, auth, comments, and dashboard.
+- 💬 **Mini Social App** — Real-time chat, story, post system using WebSocket, Redis pub/sub.
+
+---
+
+## 📫 Contact Me
+
+- Email: nguyentrunghieu20032502@mail.com
+- Portfolio: [3D Portfolio (Coming soon)]()
+- CV: [View PDF](./NguyenTrungHieu_Fullstack-Developer.pdf)
+
+---
+
+> "I love turning complex ideas into clean, efficient, and scalable software. Let’s build something great together!"
