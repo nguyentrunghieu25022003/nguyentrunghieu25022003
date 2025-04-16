@@ -27,7 +27,7 @@
 
 ## 📌 Featured Projects
 
-- 📱 **Douyin API Crawler** — FastAPI-based crawler that scrapes Douyin feed and wallpaper videos using reverse-engineered internal APIs. No browser automation required — all tokens (`ttwid`, `verifyFp`, `msToken`, `a_bogus`) are self-generated.
+- 📱 **Douyin Crawler API** — FastAPI-based crawler that scrapes Douyin feed and wallpaper videos using reverse-engineered internal APIs. No browser automation required — all tokens (`ttwid`, `verifyFp`, `msToken`, `a_bogus`) are self-generated.
 - 🎥 **YouTube Crawler API** — Crawls full channel videos, comments, playlists with anti-bot bypass.
 - 🎬 **Movie API with NestJS** — Full-featured movie REST API with crawling, auth, comments, and dashboard.
 - 💬 **Mini Social App** — Real-time chat, story, post system using WebSocket, Redis pub/sub.
