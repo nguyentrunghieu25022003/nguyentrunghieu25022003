@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nguyen Trung Hieu
 
-**Fullstack Developer** | Python • TypeScript • React • NestJS | Web Crawling • Real-time APIs
+**Fullstack Developer / Backend Developer / Data Crawler** | Python • TypeScript • React • NestJS | Web Crawling • Real-time APIs
 
 ---
 
@@ -27,7 +27,8 @@
 
 ## 📌 Featured Projects
 
-- 🎥 **YouTube Crawler API** — Crawls full channel videos, comments, replies, playlists with anti-bot bypass.
+- 📱 **Douyin API Crawler** — FastAPI-based crawler that scrapes Douyin feed and wallpaper videos using reverse-engineered internal APIs. No browser automation required — all tokens (`ttwid`, `verifyFp`, `msToken`, `a_bogus`) are self-generated.
+- 🎥 **YouTube Crawler API** — Crawls full channel videos, comments, playlists with anti-bot bypass.
 - 🎬 **Movie API with NestJS** — Full-featured movie REST API with crawling, auth, comments, and dashboard.
 - 💬 **Mini Social App** — Real-time chat, story, post system using WebSocket, Redis pub/sub.
 
@@ -37,7 +38,6 @@
 
 - Email: nguyentrunghieu20032502@mail.com
 - Portfolio: [3D Portfolio (Coming soon)]()
-- CV: [View PDF](./NguyenTrungHieu_Fullstack-Developer.pdf)
 
 ---
 
