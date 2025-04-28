@@ -38,7 +38,7 @@
 
 - Email: nguyentrunghieu20032502@mail.com
 - Portfolio: [3D Portfolio (Coming soon)]()
-
+- CV: https://drive.google.com/drive/u/0/folders/1hl6A9hH7WSTot66xyIbGgUab5N3S_zHF
 ---
 
 > "I love turning complex ideas into clean, efficient, and scalable software. Let’s build something great together!"
